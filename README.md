@@ -6,11 +6,9 @@ This is a company website that was tasked with making it more accesible for cous
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This website is used to explore what the marketing company, Hoseion, has to offer.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ![alt text](/Develop/assets/images/screenshot.png "Screenshot of website")
+![Alt text](/Develop/assets/images/screenshot.png "Screenshot of website")
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp - Lines 15 and 30 - use of nav element
