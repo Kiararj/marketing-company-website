@@ -7,7 +7,7 @@ This is a company website that was tasked with making it more accesible for cust
 
 This website is used to explore what the marketing company, Hoseion, has to offer.
 
-![Alt text](/Develop/assets/images/screenshot.png "Screenshot of website")
+![Alt text](/assets/images/screenshot.png "Screenshot of website")
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp - Lines 15 and 30 - use of nav element
